@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/persons
+
+{
+    "name":"Naira",
+    "number":"66666"
+}
